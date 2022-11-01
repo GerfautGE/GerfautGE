@@ -32,6 +32,7 @@
 ### My stats :
 
 [![GerfautGE's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerfautGE&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GerfautGE's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerfautGE&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![codewars.com](https://www.codewars.com/users/GerfautGE/badges/large)
 
