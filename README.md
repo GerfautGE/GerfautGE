@@ -25,7 +25,7 @@
 | [Reed-Solomon image](https://github.com/GerfautGE/Reed-SOlomon-image) | A project to encode images with Reed-Solomon algorithm | 90% |
 | [404 CTF Writeups](https://github.com/GerfautGE/404CTF-writeups) | My Writeups for the 404CTF| Finished |
 | [Neovim Dotfiles](https://github.com/GerfautGE/neovim_dotfiles) | My dotfiles for neovim | Will Never be Finished |
-| [Compiler-CS](https://github.com/GerfautGE/Compiler-CS) | A compiler for a custom language | 20% |
+| [Compiler-CS](https://github.com/GerfautGE/Compiler-CS) | A compiler for a custom language | Finished |
 
 ### My stats
 
