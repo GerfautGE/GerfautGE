@@ -13,6 +13,7 @@
 - Web (backend) : NodeJS, NestJS, Express
 - OOP : Python, Java
 - Low-level : C
+- functional : OCaml
 - Assembly : RISC-V
 - Databases : MySQL, MongoDB
 - Others : Bash
