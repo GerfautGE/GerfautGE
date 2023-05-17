@@ -12,7 +12,7 @@
 - Web (frontend) : HTML, CSS, JS, TS, React
 - Web (backend) : NodeJS, NestJS, Express
 - OOP : Python, Java
-- Low-level : C
+- Low-level : C, Rust
 - functional : OCaml
 - Assembly : RISC-V
 - Databases : MySQL, MongoDB
