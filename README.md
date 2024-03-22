@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GerfautGE</h1>
 <h3 align="center">A passionate frontend developer from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [Giga](https:github.com/florentinl/giga)
+- 🔭 I’m currently working on [Giga](https://github.com/florentinl/giga)
 
 - 👯 I’m looking to collaborate on [Helix](https://github.com/helix-editor/helix)
 
