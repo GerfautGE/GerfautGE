@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GerfautGE</h1>
-<h3 align="center">A passionate frontend developer from France 🇫🇷</h3>
+<h3 align="center">A developer from France 🇫🇷</h3>
 
 - 🔭 I’m currently working on [Giga](https://github.com/florentinl/giga) and [SiC](https://github.com/GerfautGE/SiC)
 
